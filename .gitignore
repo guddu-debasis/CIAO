@@ -1,0 +1,7 @@
+node_modules/
+dist/
+DEPLOYMENT_GUIDE.md
+node_modules/
+.env
+server/.env
+client/.env
